@@ -11,5 +11,6 @@
     "/app-assets": "..\\assets"
   },
   "organizationName": "Abutalha400212",
-    "projectName": "tasting"
+  "projectName": "tasting",
+  "deploymentBranch":"main"
 }
